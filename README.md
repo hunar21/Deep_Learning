@@ -21,8 +21,6 @@ Below is an overview of these scripts, followed by instructions on running them 
 2. [Task 2 Overview](#task-2-overview)
    - [task.py](#taskpy-2)
    - [task2a.py](#task2apy)
-3. [How to Run](#how-to-run)
-4. [Environment & Dependencies](#environment--dependencies)
 
 ---
 
